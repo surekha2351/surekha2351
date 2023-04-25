@@ -1,6 +1,6 @@
 ![logo](https://res.cloudinary.com/drdjty87p/image/upload/v1682313073/Blue_spheres_presentation_-_PowerPoint_24-04-2023_10_39_16_oppp40.png)
 <h1 align="center">Hi 👋, I'm Surekha Yerrabatti</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer😉 | Web Developer🤗 | Full Stack Developer😍</h3>
 <img align ="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surekha2351&label=Profile%20views&color=0e75b6&style=flat" alt="surekha2351" /> </p>
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPMENT😉**
 
-- 😎My First Project [Food Munch](surekha56.ccbp.tech)
+- 😎My First Project [Food Munch](surekha10.ccbp.tech)
 
-- 👨‍💻 All of my projects are available at [myportfolio5.ccbp.tech](myportfolio5.ccbp.tech)
+- 👨‍💻 All of my projects are available at [My PortFolio](myportfolio5.ccbp.tech)
 
 - 💬 Ask me about **HTML, CSS, PYTHON, JAVASCRIPT, SQL.**
 
