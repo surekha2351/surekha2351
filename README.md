@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPMENT😉**
 
-- 😎My First Project [Food Munch🍕](surekha10.ccbp.tech)
+- 😎 My First Project [Food Munch🍕](surekha10.ccbp.tech)
 
 - 👨‍💻 All of my projects are available at [My PortFolio](myportfolio5.ccbp.tech)
 
