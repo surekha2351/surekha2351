@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **yarrabattisurekha3260@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1yTOqEO7ez6_gQZ7GW5ChpZgvhCZIuIJHoDRx7Pe5XGY/edit?usp=share_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1yjNIzBQPjd8gkSs1pjNEnz82WXcwEPjp/view?usp=share_link)
 
 - ⚡ Fun fact **I am Light-Hearted💞**
 
