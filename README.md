@@ -1,4 +1,4 @@
-![logo](https://res.cloudinary.com/drdjty87p/image/upload/v1682313073/Blue_spheres_presentation_-_PowerPoint_24-04-2023_10_39_16_oppp40.png)
+
 <h1 align="center">Hi 👋, I'm Surekha Yerrabatti</h1>
 <h3 align="center">A Passionate Frontend Developer😉 | Web Developer🤗 | Full Stack Developer😍</h3>
 <img align ="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"
