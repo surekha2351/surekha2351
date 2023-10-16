@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [My PortFolio](myportfolio5.ccbp.tech)
 
-- 💬 Ask me about **HTML, CSS, PYTHON, JAVASCRIPT, SQL.**
+- 💬 Ask me about **HTML, CSS, PYTHON, JAVASCRIPT, SQL, ReactJS, MongoDB, Bootstrap.**
 
 - 📫 How to reach me **yarrabattisurekha3260@gmail.com**
 
